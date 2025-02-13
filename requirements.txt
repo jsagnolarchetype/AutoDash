@@ -1,0 +1,6 @@
+streamlit==<latest_version>
+pandas==<latest_version>
+matplotlib==<latest_version>
+plotly==<latest_version>
+openpyxl==<latest_version>
+numpy==<latest_version>
